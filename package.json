@@ -1,0 +1,26 @@
+{
+  "name": "moviebot",
+  "version": "1.0.0",
+  "description": "a node.js based moviebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegirl20/Chatbot.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Surbhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codegirl20/Chatbot/issues"
+  },
+  "homepage": "https://github.com/codegirl20/Chatbot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
